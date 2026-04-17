@@ -1,3 +1,4 @@
+#git clone으로 가져온 후, 수정(주석1줄)하고 다시 git push하는 연습
 import argparse
 import torch
 import torch.nn as nn
